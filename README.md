@@ -18,6 +18,10 @@ Furthermore, this GPT serves as a resource for understanding and adapting quantu
 [Biological Reactor](https://github.com/sourceduty/Biological_Reactor)
 <br>
 [Quantum Biology](https://chatgpt.com/g/g-xK8fPmlSu-quantum-biology)
+<br>
+[Quantum Biology Simulator](https://github.com/sourceduty/Quantum_Biology_Simulator)
+<br>
+[Quantum](https://github.com/sourceduty/Quantum)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
