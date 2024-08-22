@@ -29,6 +29,8 @@ The concept of a "Quantum Reactor" seems to align closely with the themes of the
 [Quantum Biology Simulator](https://github.com/sourceduty/Quantum_Biology_Simulator)
 <br>
 [Quantum](https://github.com/sourceduty/Quantum)
+<br>
+[Electrohydrodynamic Reactor](https://github.com/sourceduty/Electrohydrodynamic_Reactor)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
