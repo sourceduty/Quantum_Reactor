@@ -31,6 +31,10 @@ The concept of a "Quantum Reactor" seems to align closely with the themes of the
 [Quantum](https://github.com/sourceduty/Quantum)
 <br>
 [Electrohydrodynamic Reactor](https://github.com/sourceduty/Electrohydrodynamic_Reactor)
+<br>
+[Computational Reactor](https://github.com/sourceduty/Computational_Reactor)
+<br>
+[Computational Chronoreactor](https://github.com/sourceduty/Computational_Chronoreactor)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
